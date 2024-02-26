@@ -1,0 +1,8 @@
+--index-url https://pypi.fury.io/balacoon/
+--extra-index-url https://pypi.org/simple/
+# ''' Run this command in Terminal to download the balacoon library:
+#     pip install -i https://pypi.fury.io/balacoon/ balacoon-tts
+# '''
+huggingface_hub
+numpy
+gradio
